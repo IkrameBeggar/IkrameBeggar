@@ -10,7 +10,7 @@ I apply my Computer Engineering background to drive advancements in technology. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/katia-rania-bitam-1572b421b/" target="_blank">
+  <a href="https://www.linkedin.com/in/ikrame-beggar/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Katia Rania Bitam" height="30" width="40" />
   </a>
 </p>
