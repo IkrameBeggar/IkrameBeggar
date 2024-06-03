@@ -21,4 +21,4 @@ I apply my Computer Engineering background to drive advancements in technology. 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katia-katkat&show_icons=true&locale=en&layout=compact" alt="katia-katkat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katia-katkat&show_icons=true&locale=en" alt="katia-katkat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katia-katkat&show_icons=true&locale=en" alt="IkrameBeggar" /></p>
