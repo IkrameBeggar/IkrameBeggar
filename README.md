@@ -4,6 +4,6 @@ I apply my Computer Engineering background to drive advancements in technology. 
 
 - 🌱 I’m currently learning **Hardware acceleration techniques**
 
-- 💬 Ask me about **vhdl, verilog, python, C**
+- 💬 Ask me about **vhdl, python, C, Deep Learning, FPGAs**
 
 - 📫 How to reach me **ikrame.bgr@gmail.com**
